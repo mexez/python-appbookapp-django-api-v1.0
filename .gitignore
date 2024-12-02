@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+db.sqlite3
+aaf_env/
+*.log
+*.env
